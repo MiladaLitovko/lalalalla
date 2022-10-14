@@ -15,4 +15,5 @@ for line in data:
 data.close()
 '''
 file = open('file.txt')
+a = 'txt'
 print(file.read())
